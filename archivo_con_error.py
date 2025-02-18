@@ -22,3 +22,5 @@ print("Suma:", suma(num1, num2))
 print("Resta:", resta(num1, num2))
 print("Multiplicación:", multiplicacion(num1, num2))
 print("División:", division(num1, num2))  # Provocará un error si num2 es 0
+
+2242041623
